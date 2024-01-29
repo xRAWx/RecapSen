@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    padding: 0;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar{
+    background-color: paleturquoise;
+}
+
+.btn{
+    margin: 3px;
+}
+    
+
+
+.caja1 {
+    background-color: brown;
+    height: 18rem;
+    
+
+}
+
+.caja2 {
+    background-color: violet;
+    height: 18rem;
+    
+
+}
+
+.card{
+    margin: center;
+    margin-top: 10px;
+    display: block;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
