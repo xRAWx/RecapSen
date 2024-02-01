@@ -19,18 +19,30 @@ body {
     margin: 3px;
 }
     
+.box01{
+    margin: 0;
+    padding: 0;
+    height: auto;
+}
 
+.caja00{
+    height: 10rem;
+    text-align: center;
+    justify-content: center;
+    padding: 3rem;
+}
 
 .caja1 {
-    background-color: brown;
-    height: 18rem;
-    
+    padding: 2rem;
+    background-color: rgba(134, 192, 146, 0.536);
+    height: 30rem;
 
 }
 
 .caja2 {
-    background-color: violet;
-    height: 18rem;
+    padding: 2rem;
+    background-color: rgba(134, 192, 146, 0.536);
+    height: 30rem;
     
 
 }
@@ -38,6 +50,7 @@ body {
 .card{
     margin: center;
     margin-top: 10px;
+    margin-bottom: 10px;
     display: block;
     justify-content: center;
     position: relative;
@@ -45,4 +58,8 @@ body {
     max-width: 100%;
     max-height: 100%;
     object-fit: cover;
+    text-align: center;
 }
+ .sidebarx{
+    background-color: black;
+ }
